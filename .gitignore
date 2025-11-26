@@ -1,6 +1,5 @@
 /.vscode
 /a.exe
-/compile_flags.txt
 /crypto.exe
 /src/crypto.exe
 /include
